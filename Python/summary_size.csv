@@ -1,0 +1,3 @@
+loan_size_category,total_loans,defaults,avg_amount,default_rate_pct
+Large,52,0,23906.384615384617,0.0
+Very Large,9949,0,11663190.096190572,0.0
